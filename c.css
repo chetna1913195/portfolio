@@ -1,0 +1,48 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    background: #21025c;
+    font-family: "baloo tamma 2",cursive;
+}
+.m-heading {
+    font-family: "Roboto Slab", serif;
+}
+.navigation-link {
+    border: 2px solid transparent;
+}
+.navigation-link:hover {
+    text-decoration: none;
+    border-bottom: 2px solid #e4e00ae7;
+    transition: 0.5s ease;
+
+}
+.main-container {
+    min-height: 100vh;
+
+}
+.main_row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_row h1 {
+    font-size: 4rem;
+}
+#about {
+    background: #313552;
+    border-radius: 0.5rem;
+}
+#skills{
+    background: rgb(0, 8, 14);
+    border-radius: 0.5rem;
+}
+#Hobbies{
+    background: #313552;
+    border-radius: 0.5rem;
+}
+#contact{
+    background: rgb(0, 8, 14);
+    border-radius: 0.5rem;
+}
