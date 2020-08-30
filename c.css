@@ -44,5 +44,12 @@ body {
 }
 #contact{
     background: rgb(0, 8, 14);
+    
+}
+.contact-link{
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 2px solid #f5ba09;
     border-radius: 0.5rem;
 }
